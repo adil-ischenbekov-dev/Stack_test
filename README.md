@@ -13,6 +13,3 @@ Das Programm nutzt die Datenstruktur `Stack<T>` (LIFO - Last In, First Out).
 - .NET
 - Visual Studio
 
-## Wie man es startet
-1. Öffne die Lösung (`.sln`-Datei) in Visual Studio.
-2. Drücke F5, um das Programm zu starten.
