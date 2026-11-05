@@ -1,0 +1,15 @@
+C:\C#\Dubbager\Dubbager\bin\Debug\net10.0\Dubbager.exe
+C:\C#\Dubbager\Dubbager\bin\Debug\net10.0\Dubbager.deps.json
+C:\C#\Dubbager\Dubbager\bin\Debug\net10.0\Dubbager.runtimeconfig.json
+C:\C#\Dubbager\Dubbager\bin\Debug\net10.0\Dubbager.dll
+C:\C#\Dubbager\Dubbager\bin\Debug\net10.0\Dubbager.pdb
+C:\C#\Dubbager\Dubbager\obj\Debug\net10.0\Dubbager.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Dubbager\Dubbager\obj\Debug\net10.0\Dubbager.AssemblyInfoInputs.cache
+C:\C#\Dubbager\Dubbager\obj\Debug\net10.0\Dubbager.AssemblyInfo.cs
+C:\C#\Dubbager\Dubbager\obj\Debug\net10.0\Dubbager.csproj.CoreCompileInputs.cache
+C:\C#\Dubbager\Dubbager\obj\Debug\net10.0\Dubbager.dll
+C:\C#\Dubbager\Dubbager\obj\Debug\net10.0\refint\Dubbager.dll
+C:\C#\Dubbager\Dubbager\obj\Debug\net10.0\Dubbager.pdb
+C:\C#\Dubbager\Dubbager\obj\Debug\net10.0\Dubbager.genruntimeconfig.cache
+C:\C#\Dubbager\Dubbager\obj\Debug\net10.0\ref\Dubbager.dll
+C:\C#\Dubbager\Dubbager\obj\Debug\net10.0\Dubbager.csproj.Up2Date
