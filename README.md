@@ -1,13 +1,18 @@
-# SqliteTraining
+# Palindrom-Prüfer (Stack Test)
 
-Mein erstes Test-Projekt in C#.
+Dieses Programm prüft, ob ein eingegebenes Wort ein Palindrom ist (vorwärts und rückwärts gleich, z.B. "anna").
 
-## Funktionen
-- Begrüßung von Kunden
-- Speicherung in einer SQL-Datenbank (SQLite)
-- Anzeigen von Datenbankeinträgen
+## Wie es funktioniert
+Das Programm nutzt die Datenstruktur `Stack<T>` (LIFO - Last In, First Out).
+1. Jeder Buchstabe des Wortes wird in den Stack gelegt (`Push`).
+2. Durch das LIFO-Prinzip kommen die Buchstaben in umgekehrter Reihenfolge wieder heraus (`Pop`).
+3. Das umgedrehte Wort wird mit dem Original verglichen.
 
 ## Technologien
 - C#
 - .NET
-- Microsoft.Data.Sqlite
+- Visual Studio
+
+## Wie man es startet
+1. Öffne die Lösung (`.sln`-Datei) in Visual Studio.
+2. Drücke F5, um das Programm zu starten.
