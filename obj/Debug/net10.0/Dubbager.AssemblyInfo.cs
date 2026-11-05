@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dubbager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+289027c0b9eaaaa287104d50d3a25ec5a6261c90")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dubbager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dubbager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
